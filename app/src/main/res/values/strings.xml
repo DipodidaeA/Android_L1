@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pizza Buy</string>
+
+    <!--  main  -->
+    <string name="text_view_topic">Pizza order</string>
+
+    <string name="text_view_pizza_type">Type:</string>
+    <string name="check_box_pizza_type_mozzarella">mozzarella</string>
+    <string name="check_box_pizza_type_hawaiian">hawaiian</string>
+    <string name="check_box_pizza_type_pepperoni">pepperoni</string>
+
+    <string name="text_view_pizza_size">Size:</string>
+    <string name="check_box_pizza_size_25">25</string>
+    <string name="check_box_pizza_size_35">35</string>
+    <string name="check_box_pizza_size_45">45</string>
+
+    <string name="text_view_pizza_count">Count:</string>
+    <string name="check_box_pizza_count_1">1</string>
+    <string name="check_box_pizza_count_2">2</string>
+    <string name="check_box_pizza_count_3">3</string>
+
+    <string name="button_end_order">OK</string>
+
+    <!--  alert  -->
+    <string name="alert_topic">Attention</string>
+    <string name="alert_text">Not checked all pizza parameters</string>
+    <string name="alert_close_button">OK</string>
+
+    <!--  success  -->
+    <string name="success_topic">Pizza order success</string>
+    <string name="success_type">Type: %1$s</string>
+    <string name="success_size">Size: %1$s</string>
+    <string name="success_count">Count: %1$s</string>
+    <string name="success_close_button">OK</string>
+
+    <string name="debug1">OK</string>
+    <string name="debug2">OK</string>
+    <string name="debug3">OK</string>
+
+</resources>

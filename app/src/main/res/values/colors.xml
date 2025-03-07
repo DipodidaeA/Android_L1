@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="main_bg">#F2D1D1D1</color>
+    <color name="alert_bg">#F2FB9B9B</color>
+    <color name="success_bg">#F2A5FB9B</color>
+</resources>
